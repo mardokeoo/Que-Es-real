@@ -11,7 +11,7 @@
     top: calc(50% - 50px);
     left: calc(50% - 50px);
     animation: root 1s linear;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinit;
 }
 @keyframes root {
     0% {
