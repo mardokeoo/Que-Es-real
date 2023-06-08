@@ -42,12 +42,12 @@ var dialogs = {
         timer = 150;
     },
     value5: function() {
-        texts = "entonces lo real son simplemente";
+        texts = "Entonces Lo Real Son Simplemente";
         timer = 200;
     },
     value6: function() {
-        texts = "señales eléctricas interpretadas por tu cerebro..";
-        timer = 250;
+        texts = "Señales Eléctricas Interpretadas Por Tu cerebro...";
+        timer = 150;
     },
     value7: function() {
         texts = "Morpheo";
