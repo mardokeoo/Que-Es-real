@@ -22,15 +22,15 @@ function change() {
 
 var dialogs = {
     value0: function() {
-        texts = "¿Qué es real? ";
+        texts = "¿Qué Es Real? ";
         timer = 150;
     },
     value1: function() {
-        texts = " ¿Cómo defines lo real?";
+        texts = " ¿Cómo Defines Lo Real?";
         timer = 150;
     },
     value2: function() {
-        texts = "Si estás hablando de lo que puedes sentir";
+        texts = "Si Estás Hablando De Lo Que Puedes sentir";
         timer = 150;
     },
     value3: function() {
