@@ -50,7 +50,7 @@ var dialogs = {
         timer = 150;
     },
     value7: function() {
-        texts = "Morpheo";
+        texts = "Mardokeo";
         timer = 300;
     }
 };
