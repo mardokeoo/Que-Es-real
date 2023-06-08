@@ -30,15 +30,15 @@ var dialogs = {
         timer = 150;
     },
     value2: function() {
-        texts = "Si Estás Hablando De Lo Que Puedes sentir";
+        texts = "Si Estás Hablando De Lo Que Puedes Sentir";
         timer = 150;
     },
     value3: function() {
-        texts = "lo que puedes oler,";
+        texts = "Lo Que Puedes Oler,";
         timer = 150;
     },
     value4: function() {
-        texts = "lo que puedes saborear y ver";
+        texts = "Lo Que Puedes Saborear y Ver";
         timer = 150;
     },
     value5: function() {
