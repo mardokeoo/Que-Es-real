@@ -50,9 +50,13 @@ var dialogs = {
         timer = 250;
     },
     value7: function() {
-        texts = "Morpheo";
+        texts = "NO C WENO SY C PERO NO TE WO A DECIR";
         timer = 300;
-    }
+    },
+     value7: function() {
+        texts = "Seriedad";
+        timer = 300;
+     }
 };
 
 var namber = 0;
