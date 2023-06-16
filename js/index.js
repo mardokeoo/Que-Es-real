@@ -22,35 +22,35 @@ function change() {
 
 var dialogs = {
     value0: function() {
-        texts = "¿Qué Es Real? ";
+        texts = "¿Qué es real? ";
         timer = 150;
     },
     value1: function() {
-        texts = " ¿Cómo Defines Lo Real?";
+        texts = " ¿Cómo defines lo real?";
         timer = 150;
     },
     value2: function() {
-        texts = "Si Estás Hablando De Lo Que Puedes Sentir";
+        texts = "Si estás hablando de lo que puedes sentir";
         timer = 150;
     },
     value3: function() {
-        texts = "Lo Que Puedes Oler,";
+        texts = "lo que puedes oler,";
         timer = 150;
     },
     value4: function() {
-        texts = "Lo Que Puedes Saborear y Ver";
+        texts = "lo que puedes saborear y ver";
         timer = 150;
     },
     value5: function() {
-        texts = "Entonces Lo Real Son Simplemente";
+        texts = "entonces lo real son simplemente";
         timer = 200;
     },
     value6: function() {
-        texts = "Señales Eléctricas Interpretadas Por Tu cerebro...";
-        timer = 150;
+        texts = "señales eléctricas interpretadas por tu cerebro..";
+        timer = 250;
     },
     value7: function() {
-        texts = "Mardokeo";
+        texts = "Morpheo";
         timer = 300;
     }
 };
